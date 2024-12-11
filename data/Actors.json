@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Jenny1_1","characterIndex":0,"characterName":"Jenny","classId":1,"equips":[3,0,1,4],"faceIndex":0,"faceName":"Jenny","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jenny","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Josh1_3","characterIndex":2,"characterName":"Josh","classId":3,"equips":[1,3,1,0],"faceIndex":2,"faceName":"Josh","traits":[],"initialLevel":5,"maxLevel":99,"name":"Josh","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Sagrika1_3","characterIndex":2,"characterName":"Sagrika","classId":2,"equips":[4,3,8,5],"faceIndex":2,"faceName":"Sagrika","traits":[],"initialLevel":10,"maxLevel":99,"name":"Sagrika","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Link1_2","characterIndex":1,"characterName":"Link","classId":4,"equips":[2,7,9,6],"faceIndex":1,"faceName":"Link","traits":[{"code":61,"dataId":0,"value":0.05}],"initialLevel":20,"maxLevel":99,"name":"Link","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Jenny1_1","characterIndex":0,"characterName":"Jenny","classId":1,"equips":[3,0,1,4],"faceIndex":0,"faceName":"Jenny","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jenny","nickname":"","note":"","profile":"Lover of strawberries, cats, and basically anything\nJosh isn't entirely fond of."},
+{"id":2,"battlerName":"Josh1_2","characterIndex":1,"characterName":"Josh","classId":3,"equips":[1,3,1,0],"faceIndex":1,"faceName":"Josh","traits":[],"initialLevel":3,"maxLevel":99,"name":"Josh","nickname":"","note":"","profile":"A hopeless game designer in a world where there are\nvirtually (pun intended) no game jobs."},
+{"id":3,"battlerName":"Sagrika1_2","characterIndex":1,"characterName":"Sagrika","classId":2,"equips":[4,3,8,5],"faceIndex":1,"faceName":"Sagrika","traits":[],"initialLevel":10,"maxLevel":99,"name":"Sagrika","nickname":"","note":"","profile":"Fashion enthusiast who may also be a not-so-accidental\nmoney launderer. "},
+{"id":4,"battlerName":"Link1_2","characterIndex":1,"characterName":"Link","classId":4,"equips":[2,7,9,6],"faceIndex":1,"faceName":"Link","traits":[{"code":61,"dataId":0,"value":0.05}],"initialLevel":20,"maxLevel":99,"name":"Link","nickname":"","note":"","profile":"The one and only, hero-knight of Hyrule."}
 ]
